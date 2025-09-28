@@ -1,1 +1,1 @@
-# assets-settings
+# Assets Settings
